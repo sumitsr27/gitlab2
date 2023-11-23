@@ -4,6 +4,7 @@ void main()
   print("'hello");
 add();
 sub();
+  print("sr");
 mul();
   print("hi");
 div();
