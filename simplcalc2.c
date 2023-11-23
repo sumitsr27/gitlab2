@@ -3,6 +3,7 @@ void main()
 {
   print("'hello");
 add();
+  print("123");
 sub();
   print("sr");
 mul();
