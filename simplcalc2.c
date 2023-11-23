@@ -2,6 +2,7 @@
 void main()
 {
 add();
+  print("ssr");
 sub();
 mul();
   print("hi");
