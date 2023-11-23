@@ -6,4 +6,5 @@ add();
 sub();
 mul();
 div();
+  print("div");
 }
